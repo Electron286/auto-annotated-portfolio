@@ -113,7 +113,7 @@ sections:
           type: TextFormControl
         - type: TextFormControl
           name: mensaje
-          label: Texto
+          label: Mensaje
           hideLabel: false
           placeholder: Your name
           width: full
