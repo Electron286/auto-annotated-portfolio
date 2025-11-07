@@ -32,6 +32,9 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
+    text: >
+      Soy ingeniero de telecomunicaciones con más de 20 años en el sector de la
+      electromedicina.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
