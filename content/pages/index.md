@@ -55,6 +55,7 @@ sections:
         url: /proyectos
         altText: Ver todos los proyectos
         icon: arrowRight
+        iconPosition: right
     showDate: false
     showDescription: true
     showFeaturedImage: true
