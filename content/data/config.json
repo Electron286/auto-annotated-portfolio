@@ -53,7 +53,7 @@
             {
                 "type": "Link",
                 "label": "Proyectos",
-                "url": "/proyectos",
+                "url": "/projects",
                 "altText": "Proyectos"
             },
             {
