@@ -56,6 +56,7 @@ sections:
         altText: Ver todos los proyectos
         icon: arrowRight
         iconPosition: right
+        showIcon: true
     showDate: false
     showDescription: true
     showFeaturedImage: true
