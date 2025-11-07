@@ -43,7 +43,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/Avatar.png
-      altText: altText of the image
+      altText: Tomás Jiménez Lavid
       caption: Caption of the image
       elementId: ''
   - colors: colors-f
