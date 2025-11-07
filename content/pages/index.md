@@ -116,7 +116,7 @@ sections:
           label: Mensaje
           hideLabel: true
           placeholder: Mensaje
-          width: 1/2
+          width: full
           isRequired: false
       submitLabel: "Submit \U0001F680"
       styles:
