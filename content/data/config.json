@@ -23,7 +23,7 @@
             {
                 "type": "Link",
                 "label": "Contacto",
-                "url": "/contacto",
+                "url": "/contact",
                 "altText": "Contacto"
             }
         ],
