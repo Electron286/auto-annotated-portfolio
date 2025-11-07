@@ -54,7 +54,7 @@ sections:
         label: Ver todos los proyectos
         url: /proyectos
         altText: Ver todos los proyectos
-        icon: apple
+        icon: arrowRight
     showDate: false
     showDescription: true
     showFeaturedImage: true
