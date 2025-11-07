@@ -78,7 +78,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Ponte en contacto...\U0001F4AC"
+    title: Ponte en contacto
     form:
       type: FormBlock
       elementId: sign-up-form
