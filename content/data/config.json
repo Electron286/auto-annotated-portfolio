@@ -60,15 +60,15 @@
             },
             {
                 "type": "Link",
-                "label": "Contacto",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": "Contacto"
-            },
-            {
-                "type": "Link",
                 "label": "Blog",
                 "url": "/blog",
                 "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Contacto",
+                "url": "mailto:thisismyemail.@myemail.me",
+                "altText": "Contacto"
             },
             {
                 "type": "Link",
