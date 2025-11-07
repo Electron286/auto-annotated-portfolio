@@ -136,4 +136,6 @@ sections:
           - pl-4
         flexDirection: row
         textAlign: left
+    text: |
+      No dejes de escribirme, responderé en unas horas.
 ---
