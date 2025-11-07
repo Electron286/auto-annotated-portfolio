@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Aventura Digital en Familia
 colors: colors-a
-date: ''
+date: '2021-11-07'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
