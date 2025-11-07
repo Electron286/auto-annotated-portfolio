@@ -53,6 +53,7 @@ sections:
       - type: Link
         label: Ver todos los proyectos
         url: /proyectos
+        altText: Ver todos los proyectos
     showDate: false
     showDescription: true
     showFeaturedImage: true
