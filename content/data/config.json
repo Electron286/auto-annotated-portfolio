@@ -62,7 +62,7 @@
                 "type": "Link",
                 "label": "Contacto",
                 "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
+                "altText": "Contacto"
             },
             {
                 "type": "Link",
