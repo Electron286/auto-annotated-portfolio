@@ -11,7 +11,7 @@
             {
                 "type": "Link",
                 "label": "Sobre mí",
-                "url": "/info",
+                "url": "/#",
                 "altText": "Sobre mí"
             },
             {
