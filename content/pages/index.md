@@ -35,6 +35,11 @@ sections:
     text: >
       Soy ingeniero de telecomunicaciones con más de 20 años en el sector de la
       electromedicina.
+
+
+      Actualmente también desarrollo Aventura Digital en Familia, una iniciativa
+      educativa para que niños y padres aprendan juntos sobre Inteligencia
+      Artificial.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
