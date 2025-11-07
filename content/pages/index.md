@@ -52,7 +52,7 @@ sections:
     actions:
       - type: Link
         label: Ver todos los proyectos
-        url: /proyectos
+        url: /projects
         altText: Ver todos los proyectos
         icon: ''
         iconPosition: right
