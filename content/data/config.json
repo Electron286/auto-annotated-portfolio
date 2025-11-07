@@ -79,7 +79,7 @@
             "email": "mail@tomyjimenez.com",
             "emailAltText": "Mi email",
             "address": "Estoy en Madrid",
-            "addressAltText": "My address"
+            "addressAltText": "Estoy en Madrid"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
