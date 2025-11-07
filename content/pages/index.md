@@ -54,7 +54,7 @@ sections:
         label: Ver todos los proyectos
         url: /proyectos
         altText: Ver todos los proyectos
-        icon: arrowRightCircle
+        icon: chevronRight
         iconPosition: right
         showIcon: true
     showDate: false
