@@ -72,7 +72,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: Projects
+    subtitle: Trayectoria y proyectos
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
