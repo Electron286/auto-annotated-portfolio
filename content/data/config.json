@@ -27,7 +27,16 @@
                 "altText": "Contacto"
             }
         ],
-        "socialLinks": [],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "twitter",
+                "elementId": ""
+            }
+        ],
         "styles": {
             "self": {
                 "width": "full"
