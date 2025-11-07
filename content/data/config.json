@@ -16,7 +16,7 @@
             },
             {
                 "type": "Link",
-                "label": "Trayectoria y proyectos",
+                "label": "Proyectos",
                 "url": "/proyectos",
                 "altText": "Trayectoria y proyectos"
             },
