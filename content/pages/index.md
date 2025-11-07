@@ -40,6 +40,12 @@ sections:
       Actualmente también desarrollo Aventura Digital en Familia, una iniciativa
       educativa para que niños y padres aprendan juntos sobre Inteligencia
       Artificial.
+    media:
+      type: ImageBlock
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
