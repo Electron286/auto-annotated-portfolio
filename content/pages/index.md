@@ -114,7 +114,7 @@ sections:
         - type: TextFormControl
           name: mensaje
           label: Mensaje
-          hideLabel: false
+          hideLabel: true
           placeholder: Mensaje
           width: full
           isRequired: false
