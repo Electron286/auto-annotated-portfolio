@@ -60,7 +60,6 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
     styles:
       self:
         height: auto
