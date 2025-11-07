@@ -52,7 +52,7 @@ sections:
     actions:
       - type: Link
         label: Ver todos los proyectos
-        url: /projects
+        url: /proyectos
     showDate: false
     showDescription: true
     showFeaturedImage: true
