@@ -44,7 +44,7 @@ sections:
       type: ImageBlock
       url: /images/Avatar.png
       altText: Tomás Jiménez Lavid
-      caption: Caption of the image
+      caption: Tomás Jiménez Lavid
       elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
