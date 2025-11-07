@@ -7,7 +7,7 @@ client: Awesome client
 description: Aventura Digital en Familia
 featuredImage:
   type: ImageBlock
-  url: /images/adef1.png
+  url: /images/adef2.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
