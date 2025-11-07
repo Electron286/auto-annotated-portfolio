@@ -73,7 +73,7 @@
         ],
         "contacts": {
             "type": "ContactBlock",
-            "title": "Contact details",
+            "title": "Detalles de contacto",
             "phoneNumber": "850-123-5021",
             "phoneAltText": "My phone number",
             "email": "thisismyemail.@myemail.me",
