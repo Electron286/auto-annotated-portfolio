@@ -23,7 +23,8 @@
             {
                 "type": "Link",
                 "label": "Contacto",
-                "url": "/blog"
+                "url": "/blog",
+                "altText": "Contacto"
             }
         ],
         "socialLinks": [
