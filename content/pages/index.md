@@ -118,7 +118,7 @@ sections:
           placeholder: Mensaje
           width: full
           isRequired: false
-      submitLabel: "Submit \U0001F680"
+      submitLabel: "Enviar \U0001F680"
       styles:
         self:
           textAlign: center
