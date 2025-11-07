@@ -54,7 +54,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "Sobre mí",
                 "url": "/info",
                 "altText": ""
             },
