@@ -105,7 +105,7 @@ sections:
           width: 1/2
           type: EmailFormControl
         - name: Dirección
-          label: Address
+          label: Dirección
           hideLabel: true
           placeholder: Address
           isRequired: true
