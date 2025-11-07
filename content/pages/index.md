@@ -112,7 +112,7 @@ sections:
           width: 1/2
           type: TextFormControl
         - type: TextFormControl
-          name: texto
+          name: mensaje
           label: Texto
           hideLabel: false
           placeholder: Your name
