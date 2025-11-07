@@ -61,7 +61,7 @@
             {
                 "type": "Link",
                 "label": "Proyectos",
-                "url": "/blog",
+                "url": "/proyectos",
                 "altText": "Proyectos"
             },
             {
