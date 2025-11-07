@@ -107,7 +107,7 @@ sections:
         - name: Dirección
           label: Dirección
           hideLabel: true
-          placeholder: Address
+          placeholder: Dirección
           isRequired: true
           width: 1/2
           type: TextFormControl
