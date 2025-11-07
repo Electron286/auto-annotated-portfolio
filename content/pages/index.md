@@ -83,7 +83,7 @@ sections:
       type: FormBlock
       elementId: sign-up-form
       fields:
-        - name: Nombre
+        - name: nombre
           label: Nombre
           hideLabel: true
           placeholder: Nombre
