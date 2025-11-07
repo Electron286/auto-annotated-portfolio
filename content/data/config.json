@@ -75,7 +75,7 @@
             "type": "ContactBlock",
             "title": "Detalles de contacto",
             "phoneNumber": "",
-            "phoneAltText": "My phone number",
+            "phoneAltText": "",
             "email": "mail@tomyjimenez.com",
             "emailAltText": "Mi email",
             "address": "Estoy en Madrid",
