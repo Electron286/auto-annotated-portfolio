@@ -11,7 +11,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: Tomás Jiménez Lavid
     subtitle: Ingeniero de fabricación
     styles:
