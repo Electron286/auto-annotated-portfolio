@@ -78,7 +78,7 @@
             "phoneAltText": "My phone number",
             "email": "mail@tomyjimenez.com",
             "emailAltText": "Mi email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "address": "Estoy en Madrid",
             "addressAltText": "My address"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
