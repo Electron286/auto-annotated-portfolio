@@ -74,7 +74,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Detalles de contacto",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "",
             "phoneAltText": "My phone number",
             "email": "mail@tomyjimenez.com",
             "emailAltText": "Mi email",
